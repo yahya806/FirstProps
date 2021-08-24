@@ -1,0 +1,21 @@
+.mypic{
+background-color: goldenrod;
+}
+.last{
+    width: 100%;
+    background-color: goldenrod;
+    height: 281px;
+}
+p{
+text-align: center;
+}
+h1{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 70px;
+}
+h3{
+    color: goldenrod;
+}
